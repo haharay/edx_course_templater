@@ -1,10 +1,10 @@
 # edx_course_templater
 
-This [web page](https://harvardx.github.io/edx_course_templater/index.html) generates edX course structures in a tarball file that can be immediately imported to EdX Studio. You fill out the form to describe your course, selecting things like the number of sections, whether they focus on video/text/problems, whether the first/last pages are different, etc. The course comes wrapped in a boilerplate course with standard intro and wrap-up materials.
+页面[web page](https://haharay.github.io/edx_course_templater/index.html) 在tarball文件中生成edX课程结构，可以立即将其导入到EdX Studio中。 您填写表格以描述您的课程，选择一些内容，例如各个章节部分的数量，是否包含视频/文本/问题，首页/末页是否不同等。该课程包含在带有标准介绍的样板课程中和包装材料。
 
-As per usual, these will overwrite your existing course, so don't import them on top of a course where you've already done work. Instead, use this early in your process to save you the tedium of building out hundreds of blank components.
+与往常一样，这些内容将覆盖您现有的课程，因此不要将它们导入已经完成工作的课程之上。 取而代之的是，在您的过程的早期使用此方法，以节省您构建数百个空白组件的繁琐工作。
 
-All of this runs client-side. No server is needed.
+所有这些都在客户端运行。 不需要服务器。
 
 Pro Notes:
 
